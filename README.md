@@ -15,7 +15,7 @@ A dynamic and user-friendly markdown editor that generates markdown for text inp
 
 ## Deployment
 
-- **Live link**: https://
+- **Live link**: https://markdown-editor-coral-theta.vercel.app
 
 ## Features
 
@@ -47,8 +47,6 @@ A dynamic and user-friendly markdown editor that generates markdown for text inp
 ## Preview
 This is what it looks like
 ![Markdown Editor Screenshot](assets/screenshots/01.jpeg)
-![Markdown Editor Screenshot](assets/screenshots/02.jpeg)
-![Markdown Editor Screenshot](assets/screenshots/03.jpeg)
 
 ## Acknowledgement
 This project is part of an assignment from Cohort on Masterji. Special thanks to Hitesh sir, Piyush sir, and the entire team for their guidance and support. Excited to be part of this amazing learning journey!
